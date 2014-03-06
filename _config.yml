@@ -1,9 +1,15 @@
 name: "rė`dŭkt"
-description: "product lifecycle, extended team management; uncomplicated!"
+description: "simplifying productivity"
+author:
+  name:       Bagwan Pankaj
+  email:      me@bagwanpankaj.com
+  github:     https://github.com/bagwanpankaj
+  linkedin:   http://linkedin.com/in/bagwanpankaj
+  twitter:    http://twitter.com/bagwanpankaj
+  rubygems:   http://rubygems.org/profiles/bagwanpankaj
+  bio:        Technology Evangelist | Hacker
+  email_md5:  895c70a2152c65e54a966c9ba535b61e
 
-author: "Bagwan Pankaj"
-
-url: "http://m3xm.github.io"
 baseurl: ""#/hikari-for-Jekyll
 
 markdown: rdiscount
@@ -13,3 +19,5 @@ pygments: true
 # Google Analytics
 ga_domain: .bagwanpankaj.com
 ga_tracking_id: UA-47727049-1
+
+exclude: [README.md, Rakefile]
