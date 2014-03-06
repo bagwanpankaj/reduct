@@ -9,8 +9,6 @@ tags:
 - productivity
 tumblr_url: http://reduct.bagwanpankaj.com/post/75591258463/devising-scrum-to-own-use
 ---
-Methodology
-
 Scrum is no doubt a great methodology, that work most of the time. I have been using scrum, since long; for product lifecycle; entire my career (atleast most of it ;)). But in some cases it does fit into (if you exactly go by the books). Specially when one have tight deadlines, deliverables and bug fixes.
 
 In those some cases one can get most out of it; by tweaking it to one’s own use. Lets assume a scenario as mentioned below:
