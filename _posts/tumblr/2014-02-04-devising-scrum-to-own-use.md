@@ -93,6 +93,6 @@ If member (facing roadblocks) does not understand issue very well, swap or reass
 * SWAP: If both member understand each other’s task
 * REASSIGN: Assign blocked task to member who understand it very well, and assign some other task from backlog to other member.
 
-This way we don’t waste time and it boost up productivity as well.
+This way one don’t waste time and it boosts up productivity as well.
 
 Happy Development <3 <3 <3
