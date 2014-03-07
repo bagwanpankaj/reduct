@@ -20,11 +20,11 @@ Every team try to accomplish things in batches or in dedicated intervals. Lets a
 
 So we have six tasks to do in a given day, if we alot timeframe to every task, let's assume this as well
 
-1.) Meetings                            1 hr
-2.) Development                         3 hr
-3.) Communication/Estimation/Chores     1 hr
-4.) Code Review                         2 hr
-5.) Deployment                          1 hr
+1.) Meetings                            1 hr  
+2.) Development                         3 hr  
+3.) Communication/Estimation/Chores     1 hr  
+4.) Code Review                         2 hr  
+5.) Deployment                          1 hr  
 
 **This is like keep on storing stuff to be done, handle them at one go or process them in batch fashion** Problems that I see doing stuff in batch fashion are:
 
